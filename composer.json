@@ -1,0 +1,13 @@
+{
+    "name": "vendor/wp-slim-framework",
+    "description": "Description of project wp-slim-framework.",
+    "authors": [
+        {
+            "name": "femi ashiru",
+            "email": "femi.ashiru@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "3.*"
+    }
+}
